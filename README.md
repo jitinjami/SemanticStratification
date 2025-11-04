@@ -2,7 +2,7 @@
 
 This repository contains the official implementation of our NeurIPS 2025 submission:  
 **“Stratify or Die: Rethinking Data Splits in Image Segmentation.”**  
-[[Paper Link]]()
+[[Preprint Link]](https://arxiv.org/abs/2509.21056)
 
 ---
 
